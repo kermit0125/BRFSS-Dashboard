@@ -845,7 +845,7 @@ This project follows industry-standard SDE practices:
 ## 📧 Contact & Support
 
 - **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Email**: [your-email@example.com]
+- **Email**: xing.kem@northeastern.edu
 - **Documentation**: [Full Documentation](docs/)
 - **Quick Start**: See [QUICKSTART.md](QUICKSTART.md)
 
@@ -872,4 +872,5 @@ This project follows industry-standard SDE practices:
 [Back to Top](#brfss-dashboard---behavioral-risk-factor-surveillance-system-data-explorer)
 
 </div>
+
 
