@@ -1,0 +1,30 @@
+# BRFSS Dashboard - Python Dependencies
+# Python 3.8+ required
+
+# Core Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+pyarrow>=12.0.0
+
+# Web Framework & Visualization
+dash>=2.14.0
+plotly>=5.17.0
+dash-bootstrap-components>=1.5.0
+
+# Data Quality & Validation
+scipy>=1.10.0  # For statistical functions
+
+# Utilities
+python-dateutil>=2.8.2
+pytz>=2023.3
+
+# Optional but Recommended
+jupyter>=1.0.0  # For data exploration
+ipython>=8.12.0  # Enhanced Python shell
+
+# Development Tools (optional)
+# pytest>=7.4.0
+# black>=23.7.0
+# flake8>=6.1.0
+# mypy>=1.5.0
+

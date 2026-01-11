@@ -1,0 +1,89 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# Data Files (Large files - use Git LFS if needed)
+data/raw/*.csv
+data/raw/*.parquet
+data/processed/*.csv
+*.parquet
+!data/processed/cleaned_data_final_enhanced.parquet  # Keep final processed file
+
+# Logs
+*.log
+logs/
+
+# Environment Variables
+.env
+.env.local
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Distribution / packaging
+dist/
+*.tar.gz
+
+# Project specific
+*.pptx
+*.docx
+*.zip
+question_to_qid_unified.csv
+response_mapping_summary.csv
+breakout_mapping_summary.csv
+data_quality_report.txt
+
