@@ -844,8 +844,8 @@ This project follows industry-standard SDE practices:
 
 ## 📧 Contact & Support
 
-- **Issues**: [GitHub Issues](https://github.com/your-repo/issues)
-- **Email**: [your-email@example.com]
+- **Issues**: [GitHub Issues](https://github.com/kermit0125/BRFSS-Dashboard/issues)
+- **Email**: [xing.kem@northeastern.edu]
 - **Documentation**: [Full Documentation](docs/)
 - **Quick Start**: See [QUICKSTART.md](QUICKSTART.md)
 
